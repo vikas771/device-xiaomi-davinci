@@ -1,0 +1,32 @@
+[
+  {
+    "repository" : "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch"     : "lineage-18.0",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "Vikas771/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch"     : "lineage-18.0",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "AdarshGrewal/vendor_xiaomi_davinci",
+    "target_path": "vendor/xiaomi/davinci",
+    "branch"     : "statix",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch"     : "master",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "vantoman/kernel_xiaomi_davinci",
+    "target_path": "kernel/xiaomi/davinci",
+    "branch"     : "VantomKernelR",
+    "remote"     : "github"
+  }
+]
